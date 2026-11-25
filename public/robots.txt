@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gridsplitcue.bastelar.com/sitemap.xml
